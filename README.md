@@ -17,6 +17,79 @@
 <a href="https://account.xbox.com/en-US/Profile?gamertag=LockedElk583468"><img src="https://img.shields.io/badge/Xbox%20Live-107c10?style=for-the-badge&logo=xbox&logoColor=white"></a>
 <a href="https://www.gog.com/u/Venkatesh_Rao"><img src="https://img.shields.io/badge/gog-000000?style=for-the-badge&logo=gogdotcom"></a>
 
+
+
+<center>
+
+## Skill Set
+</center>
+<br>
+<br>
+
+<table><tr><td valign="top" width="33%">
+<div align="center">
+
+### Programming Languages
+<br>
+<img src="static/skills-assets/python-original.svg" height="40">
+<img src="static/skills-assets/r.svg" height="40">
+</div>
+<td valign="top" width="33%">
+<div align="center">
+
+### Frameworks
+<br>
+<img src="static/skills-assets/django-original.svg" height="40" style="margin: 10px">
+<img src="static/skills-assets/flask.png" height="40" style="margin: 10px">
+<img src="static/skills-assets/keras.png" height="40" style="margin: 10px">
+<img src="static/skills-assets/opencv-icon.svg" height="40" style="margin: 10px">
+<img src="static/skills-assets/pytorch-icon.svg" height="40" style="margin: 10px">
+</div>
+<td valign="top" width="33%">
+
+<div align="center">
+
+### Database systems
+<br>
+<img src="static/skills-assets/mysql-original-wordmark.svg" height="40" style="margin: 10px">
+<img src="static/skills-assets/postgresql-original-wordmark.svg" height="40" style="margin: 10px">
+<img src="static/skills-assets/mongodb-original-wordmark.svg" height="40" style="margin: 10px">
+<img src="static/skills-assets/redis-original-wordmark.svg" height="40" style="margin: 10px">
+</div>
+</table>
+
+<table><tr><td valign="top" width="33%">
+<div align="center">
+
+## VCS
+<br>
+<img src="static/skills-assets/git-scm-icon.svg" height="40" style="margin: 10px">
+<img src="static/skills-assets/gitlab.svg" height="40" style="margin: 10px">
+</div>
+<td valign="top" width="33%">
+<div align="center">
+
+## Virtualization
+<br>
+<img src="static/skills-assets/docker-original-wordmark.svg" height="40" style="margin: 10px">
+</div>
+<td valign="top" width="33%">
+<div align="center">
+
+## Templating
+<br>
+<img src="https://img.shields.io/badge/-000000?logo=markdown&logoColor=white" height="25" style="margin: 10px">
+<img src="static/skills-assets/latex.png" height="40" style="margin: 10px">
+</div>
+</table>
+
+<br>
+<br>
+
+
+
+
+
 [GO TO SKILLS](skills.md)
 ### Workspace Spec
 
