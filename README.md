@@ -1,4 +1,4 @@
-### What's UP (&uarr;)[]?
+### What's UP [&uarr;](README.md)?
 
 Hey there!!!
 
