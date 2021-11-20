@@ -34,7 +34,8 @@
 <img src="static/skills-assets/python-original.svg" height="40">
 <img src="static/skills-assets/r.svg" height="40">
 </div>
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
 <div align="center">
 
 ### Frameworks
@@ -45,8 +46,8 @@
 <img src="static/skills-assets/opencv-icon.svg" height="40" style="margin: 10px">
 <img src="static/skills-assets/pytorch-icon.svg" height="40" style="margin: 10px">
 </div>
-</td><td valign="top" width="33%">
-
+</td>
+<td valign="top" width="33%">
 <div align="center">
 
 ### Database systems
@@ -56,32 +57,10 @@
 <img src="static/skills-assets/mongodb-original-wordmark.svg" height="40" style="margin: 10px">
 <img src="static/skills-assets/redis-original-wordmark.svg" height="40" style="margin: 10px">
 </div>
-</td></tr></table>
+</td>
+</tr>
+</table>
 
-<table><tr><td valign="top" width="33%">
-<div align="center">
-
-## VCS
-<br>
-<img src="static/skills-assets/git-scm-icon.svg" height="40" style="margin: 10px">
-<img src="static/skills-assets/gitlab.svg" height="40" style="margin: 10px">
-</div>
-</td><td valign="top" width="33%">
-<div align="center">
-
-## Virtualization
-<br>
-<img src="static/skills-assets/docker-original-wordmark.svg" height="40" style="margin: 10px">
-</div>
-</td><td valign="top" width="33%">
-<div align="center">
-
-## Templating
-<br>
-<img src="https://img.shields.io/badge/-000000?logo=markdown&logoColor=white" height="25" style="margin: 10px">
-<img src="static/skills-assets/latex.png" height="40" style="margin: 10px">
-</div>
-</td></tr></table>
 
 <br>
 <br>
