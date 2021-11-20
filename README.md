@@ -46,7 +46,6 @@ I am Venkatesh, a programming enthusiast, also working with Data Science and Mac
 ### Frameworks
 <br>
 <img src="static/skills-assets/django-original.svg" height="40" style="margin: 10px">
-<img src="static/skills-assets/flask.png" height="40" style="margin: 10px">
 <img src="static/skills-assets/keras.png" height="40" style="margin: 10px">
 <img src="static/skills-assets/opencv-icon.svg" height="40" style="margin: 10px">
 <img src="static/skills-assets/pytorch-icon.svg" height="40" style="margin: 10px">
