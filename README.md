@@ -119,7 +119,8 @@ I am Venkatesh, a programming enthusiast, also working with Data Science and Mac
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-## Resources-
+
+## Resources
 
 Badges from [shields.io](https://shields.io/)
 
