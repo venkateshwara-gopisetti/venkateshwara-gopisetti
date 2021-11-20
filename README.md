@@ -1,5 +1,8 @@
-### What's UP?
+### What's UP (&uarr;)[]?
 
+Hey there!!!
+
+I am Venkatesh, a programming enthusiast, also working with Data Science and Machine Learning.
 
 
 
@@ -26,7 +29,9 @@
 <br>
 <br>
 
-<table><tr><td valign="top" width="33%">
+<table class="table table-borderless">
+<tr>
+<td valign="top" width="33%">
 <div align="center">
 
 ### Programming Languages
@@ -59,18 +64,42 @@
 </div>
 </td>
 </tr>
+
+<tr style="background-color:#ffffff">
+<td valign="top" width="33%">
+<div align="center">
+
+### VCS
+<br>
+<img src="static/skills-assets/git-scm-icon.svg" height="40" style="margin: 10px">
+<img src="static/skills-assets/gitlab.svg" height="40" style="margin: 10px">
+</div>
+</td>
+<td valign="top" width="33%">
+<div align="center">
+
+
+### Virtualization
+<br>
+<img src="static/skills-assets/docker-original-wordmark.svg" height="40" style="margin: 10px">
+</div>
+</td>
+<td valign="top" width="33%">
+<div align="center">
+
+### Templating
+<br>
+<img src="https://img.shields.io/badge/-000000?logo=markdown&logoColor=white" height="40" style="margin: 10px">
+<img src="static/skills-assets/latex.png" height="40" style="margin: 10px">
+</div>
+</td>
+</tr>
 </table>
 
-
 <br>
 <br>
 
-
-
-
-
-[GO TO SKILLS](skills.md)
-### Workspace Spec
+## Workspace Spec
 
 <img src="https://img.shields.io/badge/NVIDIA-RTX 3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 
@@ -79,13 +108,17 @@
 
 <br>
 
+## Github Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=venkateshwara-gopisetti&theme=blue-green">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshwara-gopisetti&theme=blue-green">
 
 
 
-#### Resources-
+## Github Activity
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+## Resources-
 
 Badges from [shields.io](https://shields.io/)
 
