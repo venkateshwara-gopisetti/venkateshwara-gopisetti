@@ -35,8 +35,8 @@ I am Venkatesh, a programming enthusiast, also working with Data Science and Mac
 
 ### Programming Languages
 <br>
-<img src="static/skills-assets/python-original.svg" height="40">
-<img src="static/skills-assets/r.svg" height="40">
+<img src="static/skills-assets/python-original.svg" height="40" style="margin: 10px">
+<img src="static/skills-assets/r.svg" height="40" style="margin: 10px">
 </div>
 </td>
 <td valign="top" width="33%">
