@@ -1,15 +1,14 @@
-### What's UP [&uarr;](README.md)?
+### What's UP [&uarr;](README.md)? 
 
 Hey there!!!
 
 I am Venkatesh, a programming enthusiast, also working with Data Science and Machine Learning.
 
-
-
-## Connect with me
 <img src="https://media.giphy.com/media/l41lMjj9c8uzVQyqs/giphy.gif" width="50">
 
-#### SOCIAL PROFILES
+## Connect with me
+
+#### SOCIAL PROFILES (To Talk)
 <a href="https://github.com/venkateshwara-gopisetti"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/venkateshwara-rao-gopisetti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:venkateshwar.gopisetti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -101,7 +100,6 @@ I am Venkatesh, a programming enthusiast, also working with Data Science and Mac
 ## Workspace Spec
 
 <img src="https://img.shields.io/badge/NVIDIA-RTX 3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-
 <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 
 
@@ -110,10 +108,17 @@ I am Venkatesh, a programming enthusiast, also working with Data Science and Mac
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=venkateshwara-gopisetti&theme=blue-green">
-
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshwara-gopisetti&theme=blue-green">
+<br>
 
+## Interesting Projects
 
+https://github.com/gautamkrishnar/blog-post-workflow
+https://github.com/rishavanand/github-profilinator
+
+<br>
 
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
@@ -129,6 +134,8 @@ I am Venkatesh, a programming enthusiast, also working with Data Science and Mac
 Badges from [shields.io](https://shields.io/)
 
 Icons from [media set at this project by Rishav Anand](https://github.com/rishavanand/github-profilinator)
+
+
 
 
 <!-- 
