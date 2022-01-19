@@ -122,11 +122,11 @@ https://github.com/rishavanand/github-profilinator
 
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
+- [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/python_for_statistical_analysis](https://github.com/venkateshwara-gopisetti/python_for_statistical_analysis/compare/master)
+- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/python_for_statistical_analysis](https://github.com/venkateshwara-gopisetti/python_for_statistical_analysis//)
 - [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/general_utilities](https://github.com/venkateshwara-gopisetti/general_utilities/compare/f049eb8a5a...bc4dee6b7e)
 - [venkateshwara-gopisetti created a branch master in &lpar;deleted&rpar;](https://github.com/venkateshwara-gopisetti/animeout-downloader/compare/master)
 - [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/animeout-downloader](https://github.com/venkateshwara-gopisetti/animeout-downloader//)
-- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/venkateshwara-gopisetti](https://github.com/venkateshwara-gopisetti/venkateshwara-gopisetti/compare/d38c682268...9447949972)
-- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/venkateshwara-gopisetti](https://github.com/venkateshwara-gopisetti/venkateshwara-gopisetti/compare/dfc1985dc1...d38c682268)
 <!-- BLOG-POST-LIST:END -->
 
 ## Resources
