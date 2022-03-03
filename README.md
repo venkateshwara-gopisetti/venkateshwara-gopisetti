@@ -122,9 +122,11 @@ https://github.com/rishavanand/github-profilinator
 
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
+- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/basic-computer-games](https://github.com/venkateshwara-gopisetti/basic-computer-games/compare/e63be40f81...62e23075e8)
+- [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/basic-computer-games](https://github.com/venkateshwara-gopisetti/basic-computer-games/compare/master)
+- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/basic-computer-games](https://github.com/venkateshwara-gopisetti/basic-computer-games//)
+- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/basic-computer-games](https://github.com/venkateshwara-gopisetti/basic-computer-games//)
 - [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/python_for_statistical_analysis](https://github.com/venkateshwara-gopisetti/python_for_statistical_analysis/compare/master)
-- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/python_for_statistical_analysis](https://github.com/venkateshwara-gopisetti/python_for_statistical_analysis//)
-- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/general_utilities](https://github.com/venkateshwara-gopisetti/general_utilities/compare/f049eb8a5a...bc4dee6b7e)
 <!-- BLOG-POST-LIST:END -->
 
 ## Resources
