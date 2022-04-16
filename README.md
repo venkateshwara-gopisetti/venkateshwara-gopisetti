@@ -14,10 +14,10 @@ I am Venkatesh, a programming enthusiast, also working with Data Science and Mac
 <a href="mailto:venkateshwar.gopisetti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
-#### GAMING PROFILES
-<a href="https://steamcommunity.com/profiles/76561198131575424/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://account.xbox.com/en-US/Profile?gamertag=LockedElk583468"><img src="https://img.shields.io/badge/Xbox%20Live-107c10?style=for-the-badge&logo=xbox&logoColor=white"></a>
-<a href="https://www.gog.com/u/Venkatesh_Rao"><img src="https://img.shields.io/badge/gog-000000?style=for-the-badge&logo=gogdotcom"></a>
+[comment]: <> (#### GAMING PROFILES)
+[comment]: <> (<a href="https://steamcommunity.com/profiles/76561198131575424/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>)
+[comment]: <> (<a href="https://account.xbox.com/en-US/Profile?gamertag=LockedElk583468"><img src="https://img.shields.io/badge/Xbox%20Live-107c10?style=for-the-badge&logo=xbox&logoColor=white"></a>)
+[comment]: <> (<a href="https://www.gog.com/u/Venkatesh_Rao"><img src="https://img.shields.io/badge/gog-000000?style=for-the-badge&logo=gogdotcom"></a>)
 
 
 
