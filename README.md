@@ -122,11 +122,11 @@ https://github.com/rishavanand/github-profilinator
 
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
+- [venkateshwara-gopisetti created a branch main in venkateshwara-gopisetti/next-netlify-starter](https://github.com/venkateshwara-gopisetti/next-netlify-starter/compare/main)
+- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/next-netlify-starter](https://github.com/venkateshwara-gopisetti/next-netlify-starter//)
+- [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/Knowledge-Base](https://github.com/venkateshwara-gopisetti/Knowledge-Base/compare/master)
+- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/Knowledge-Base](https://github.com/venkateshwara-gopisetti/Knowledge-Base//)
 - [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/venkateshwara-gopisetti](https://github.com/venkateshwara-gopisetti/venkateshwara-gopisetti/compare/08f6b5121d...6e46252543)
-- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/basic-computer-games](https://github.com/venkateshwara-gopisetti/basic-computer-games/compare/62e23075e8...d1625a1bdf)
-- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/basic-computer-games](https://github.com/venkateshwara-gopisetti/basic-computer-games/compare/e63be40f81...62e23075e8)
-- [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/basic-computer-games](https://github.com/venkateshwara-gopisetti/basic-computer-games/compare/master)
-- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/basic-computer-games](https://github.com/venkateshwara-gopisetti/basic-computer-games//)
 <!-- BLOG-POST-LIST:END -->
 
 ## Resources
