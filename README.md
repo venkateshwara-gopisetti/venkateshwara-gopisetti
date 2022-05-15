@@ -122,11 +122,11 @@ https://github.com/rishavanand/github-profilinator
 
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
-- [venkateshwara-gopisetti created a branch main in venkateshwara-gopisetti/next-netlify-starter](https://github.com/venkateshwara-gopisetti/next-netlify-starter/compare/main)
-- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/next-netlify-starter](https://github.com/venkateshwara-gopisetti/next-netlify-starter//)
-- [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/Knowledge-Base](https://github.com/venkateshwara-gopisetti/Knowledge-Base/compare/master)
-- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/Knowledge-Base](https://github.com/venkateshwara-gopisetti/Knowledge-Base//)
-- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/venkateshwara-gopisetti](https://github.com/venkateshwara-gopisetti/venkateshwara-gopisetti/compare/08f6b5121d...6e46252543)
+- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/Bezier-Curves](https://github.com/venkateshwara-gopisetti/Bezier-Curves/compare/a941aca6ce...3da0bf2c56)
+- [venkateshwara-gopisetti pushed to gh-pages in venkateshwara-gopisetti/Bezier-Curves](https://github.com/venkateshwara-gopisetti/Bezier-Curves/compare/bd89947ea4...45620ab0b3)
+- [venkateshwara-gopisetti created a branch gh-pages in venkateshwara-gopisetti/Bezier-Curves](https://github.com/venkateshwara-gopisetti/Bezier-Curves/compare/gh-pages)
+- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/Bezier-Curves](https://github.com/venkateshwara-gopisetti/Bezier-Curves/compare/2be19e206f...a941aca6ce)
+- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/Bezier-Curves](https://github.com/venkateshwara-gopisetti/Bezier-Curves/compare/8f1dee8c6a...2be19e206f)
 <!-- BLOG-POST-LIST:END -->
 
 ## Resources
