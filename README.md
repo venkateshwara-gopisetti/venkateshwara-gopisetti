@@ -122,11 +122,11 @@ https://github.com/rishavanand/github-profilinator
 
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
-- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/Bezier-Curves](https://github.com/venkateshwara-gopisetti/Bezier-Curves/compare/a941aca6ce...3da0bf2c56)
-- [venkateshwara-gopisetti pushed to gh-pages in venkateshwara-gopisetti/Bezier-Curves](https://github.com/venkateshwara-gopisetti/Bezier-Curves/compare/bd89947ea4...45620ab0b3)
-- [venkateshwara-gopisetti created a branch gh-pages in venkateshwara-gopisetti/Bezier-Curves](https://github.com/venkateshwara-gopisetti/Bezier-Curves/compare/gh-pages)
-- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/Bezier-Curves](https://github.com/venkateshwara-gopisetti/Bezier-Curves/compare/2be19e206f...a941aca6ce)
-- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/Bezier-Curves](https://github.com/venkateshwara-gopisetti/Bezier-Curves/compare/8f1dee8c6a...2be19e206f)
+- [venkateshwara-gopisetti created a tag v0.0.1 in venkateshwara-gopisetti/WordleSolvers](https://github.com/venkateshwara-gopisetti/WordleSolvers/tree/v0.0.1)
+- [venkateshwara-gopisetti released v0.0.1 at venkateshwara-gopisetti/WordleSolvers](https://github.com/venkateshwara-gopisetti/WordleSolvers/releases/tag/v0.0.1)
+- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/WordleSolvers](https://github.com/venkateshwara-gopisetti/WordleSolvers/compare/1b967cc0a9...daf469c273)
+- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/WordleSolvers](https://github.com/venkateshwara-gopisetti/WordleSolvers/compare/d78e9b01f0...1b967cc0a9)
+- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/WordleSolvers](https://github.com/venkateshwara-gopisetti/WordleSolvers/compare/7a44ca73ea...d78e9b01f0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Resources
