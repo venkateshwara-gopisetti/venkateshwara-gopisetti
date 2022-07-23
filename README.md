@@ -135,11 +135,11 @@ https://github.com/rishavanand/github-profilinator
 
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
+- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/WordleSolvers](https://github.com/venkateshwara-gopisetti/WordleSolvers/compare/02bf8b2138...a3b3f1f1b6)
+- [venkateshwara-gopisetti merged a pull request in venkateshwara-gopisetti/WordleSolvers](https://github.com/venkateshwara-gopisetti/WordleSolvers/pull/2)
 - [venkateshwara-gopisetti created a tag v0.0.2 in venkateshwara-gopisetti/WordleSolvers](https://github.com/venkateshwara-gopisetti/WordleSolvers/tree/v0.0.2)
 - [venkateshwara-gopisetti released 0.0.2 at venkateshwara-gopisetti/WordleSolvers](https://github.com/venkateshwara-gopisetti/WordleSolvers/releases/tag/v0.0.2)
 - [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/WordleSolvers](https://github.com/venkateshwara-gopisetti/WordleSolvers/compare/4eaf377a8f...02bf8b2138)
-- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/WordleSolvers](https://github.com/venkateshwara-gopisetti/WordleSolvers/compare/daf469c273...4eaf377a8f)
-- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/venkateshwara-gopisetti](https://github.com/venkateshwara-gopisetti/venkateshwara-gopisetti/compare/1d4c7d18a8...a14559141e)
 <!-- BLOG-POST-LIST:END -->
 
 ## Resources
