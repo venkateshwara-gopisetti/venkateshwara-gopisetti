@@ -104,7 +104,8 @@ I am Venkatesh, a programming enthusiast, also into Data Science and Machine Lea
 - [M001: MongoDB Basics](https://university.mongodb.com/course_completion/bfc4b555-3ac1-4beb-8cd2-c4db4d276794)
 - [M100: MongoDB for SQL Pros](https://university.mongodb.com/course_completion/f7180097-9a9f-4dbf-b7c9-5c0037dd2a99)
 - [M220P: MongoDB for Python Developers](https://university.mongodb.com/course_completion/f4be865d-5460-4bf1-b88c-8834e2dbb2ef)
-- [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/2022_October_11/completion)
+- [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/course_completion/87d6125a-72ea-4fa9-b9e1-a69b7b2296f4)
+- [A131: Introduction to MongoDB Charts](https://university.mongodb.com/course_completion/c4ecd924-2b65-4eda-9bed-e027a9a0d811)
 
 ### Udemy
 
