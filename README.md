@@ -141,7 +141,6 @@ https://github.com/rishavanand/github-profilinator
 - [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/venkateshwara-gopisetti](https://github.com/venkateshwara-gopisetti/venkateshwara-gopisetti/compare/41016172f9...8bb8c641aa)
 - [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/regex-factory](https://github.com/venkateshwara-gopisetti/regex-factory//)
 - [venkateshwara-gopisetti forked venkateshwara-gopisetti/stable-diffusion from CompVis/stable-diffusion](https://github.com/venkateshwara-gopisetti/stable-diffusion)
-- [venkateshwara-gopisetti starred charmbracelet/gum](https://github.com/charmbracelet/gum)
 <!-- BLOG-POST-LIST:END -->
 
 ## Resources
