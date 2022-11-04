@@ -137,10 +137,11 @@ https://github.com/rishavanand/github-profilinator
 
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
+- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/The_Right_Tools](https://github.com/venkateshwara-gopisetti/The_Right_Tools/compare/5a2db801e3...892aa4a08e)
+- [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/The_Right_Tools](https://github.com/venkateshwara-gopisetti/The_Right_Tools/compare/master)
+- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/The_Right_Tools](https://github.com/venkateshwara-gopisetti/The_Right_Tools//)
 - [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/venkateshwara-gopisetti](https://github.com/venkateshwara-gopisetti/venkateshwara-gopisetti/compare/8bb8c641aa...0c39de891e)
 - [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/venkateshwara-gopisetti](https://github.com/venkateshwara-gopisetti/venkateshwara-gopisetti/compare/41016172f9...8bb8c641aa)
-- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/regex-factory](https://github.com/venkateshwara-gopisetti/regex-factory//)
-- [venkateshwara-gopisetti forked venkateshwara-gopisetti/stable-diffusion from CompVis/stable-diffusion](https://github.com/venkateshwara-gopisetti/stable-diffusion)
 <!-- BLOG-POST-LIST:END -->
 
 ## Resources
