@@ -137,11 +137,11 @@ https://github.com/rishavanand/github-profilinator
 
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
+- [venkateshwara-gopisetti opened an issue in venkateshwara-gopisetti/TimeSeriesIntuition](https://github.com/venkateshwara-gopisetti/TimeSeriesIntuition/issues/3)
+- [venkateshwara-gopisetti opened an issue in venkateshwara-gopisetti/TimeSeriesIntuition](https://github.com/venkateshwara-gopisetti/TimeSeriesIntuition/issues/2)
+- [venkateshwara-gopisetti opened an issue in venkateshwara-gopisetti/TimeSeriesIntuition](https://github.com/venkateshwara-gopisetti/TimeSeriesIntuition/issues/1)
+- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/TimeSeriesIntuition](https://github.com/venkateshwara-gopisetti/TimeSeriesIntuition/compare/71aa777d4c...62b92d72f7)
 - [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/TimeSeriesIntuition](https://github.com/venkateshwara-gopisetti/TimeSeriesIntuition/compare/master)
-- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/TimeSeriesIntuition](https://github.com/venkateshwara-gopisetti/TimeSeriesIntuition//)
-- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/regex-factory](https://github.com/venkateshwara-gopisetti/regex-factory/compare/2bdc7cdd10...8d31f73cd6)
-- [venkateshwara-gopisetti pushed to master in venkateshwara-gopisetti/regex-factory](https://github.com/venkateshwara-gopisetti/regex-factory/compare/25848c4169...2bdc7cdd10)
-- [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/regex-factory](https://github.com/venkateshwara-gopisetti/regex-factory/compare/master)
 <!-- BLOG-POST-LIST:END -->
 
 ## Resources
