@@ -95,6 +95,8 @@ I am Venkatesh, a programming enthusiast, also into Data Science and Machine Lea
 
 ## Certifications
 
+### [Azure Data Science Associate](https://www.credly.com/badges/0e406ea0-c2eb-4620-8306-41573b90de02)
+
 ### RedisUniversity
 - [Redis Labs | RU101: Introduction to Redis Data Structures](https://university.redis.com/certificates/f208faa744bc4689b149830feeac4514)
 - [Redis Labs | RU102PY: Redis for Python Developers](https://university.redis.com/certificates/c83818a89ce14a80832e3a4fcbe2fbe9)
