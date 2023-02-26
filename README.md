@@ -139,11 +139,11 @@ https://github.com/rishavanand/github-profilinator
 
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
+- [venkateshwara-gopisetti opened an issue in venkateshwara-gopisetti/MLBot](https://github.com/venkateshwara-gopisetti/MLBot/issues/1)
+- [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/MLBot](https://github.com/venkateshwara-gopisetti/MLBot/compare/master)
+- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/MLBot](https://github.com/venkateshwara-gopisetti/MLBot//)
 - [venkateshwara-gopisetti added sandilyasrinivas1809 to venkateshwara-gopisetti/TimeSeriesIntuition](https://github.com/venkateshwara-gopisetti/TimeSeriesIntuition)
 - [venkateshwara-gopisetti opened an issue in venkateshwara-gopisetti/Bezier-Curves](https://github.com/venkateshwara-gopisetti/Bezier-Curves/issues/1)
-- [venkateshwara-gopisetti edited a wiki page in venkateshwara-gopisetti/TimeSeriesIntuition](https://github.com/venkateshwara-gopisetti/TimeSeriesIntuition/wiki/Home)
-- [venkateshwara-gopisetti created a wiki page in venkateshwara-gopisetti/TimeSeriesIntuition](https://github.com/venkateshwara-gopisetti/TimeSeriesIntuition/wiki/Release-Schedule)
-- [venkateshwara-gopisetti created a wiki page in venkateshwara-gopisetti/TimeSeriesIntuition](https://github.com/venkateshwara-gopisetti/TimeSeriesIntuition/wiki/Home)
 <!-- BLOG-POST-LIST:END -->
 
 ## Resources
