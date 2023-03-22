@@ -139,11 +139,11 @@ https://github.com/rishavanand/github-profilinator
 
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
+- [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/TimeBreak](https://github.com/venkateshwara-gopisetti/TimeBreak/compare/master)
+- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/TimeBreak](https://github.com/venkateshwara-gopisetti/TimeBreak//)
 - [venkateshwara-gopisetti opened an issue in venkateshwara-gopisetti/MLBot](https://github.com/venkateshwara-gopisetti/MLBot/issues/1)
 - [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/MLBot](https://github.com/venkateshwara-gopisetti/MLBot/compare/master)
 - [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/MLBot](https://github.com/venkateshwara-gopisetti/MLBot//)
-- [venkateshwara-gopisetti added sandilyasrinivas1809 to venkateshwara-gopisetti/TimeSeriesIntuition](https://github.com/venkateshwara-gopisetti/TimeSeriesIntuition)
-- [venkateshwara-gopisetti opened an issue in venkateshwara-gopisetti/Bezier-Curves](https://github.com/venkateshwara-gopisetti/Bezier-Curves/issues/1)
 <!-- BLOG-POST-LIST:END -->
 
 ## Resources
