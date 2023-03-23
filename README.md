@@ -139,11 +139,11 @@ https://github.com/rishavanand/github-profilinator
 
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
+- [venkateshwara-gopisetti created a branch sample_data in venkateshwara-gopisetti/TimeBreak](https://github.com/venkateshwara-gopisetti/TimeBreak/compare/sample_data)
 - [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/TimeBreak](https://github.com/venkateshwara-gopisetti/TimeBreak/compare/master)
 - [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/TimeBreak](https://github.com/venkateshwara-gopisetti/TimeBreak//)
 - [venkateshwara-gopisetti opened an issue in venkateshwara-gopisetti/MLBot](https://github.com/venkateshwara-gopisetti/MLBot/issues/1)
 - [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/MLBot](https://github.com/venkateshwara-gopisetti/MLBot/compare/master)
-- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/MLBot](https://github.com/venkateshwara-gopisetti/MLBot//)
 <!-- BLOG-POST-LIST:END -->
 
 ## Resources
