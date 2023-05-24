@@ -139,11 +139,11 @@ https://github.com/rishavanand/github-profilinator
 
 ## Github Activity
 <!-- BLOG-POST-LIST:START -->
-- [venkateshwara-gopisetti created a branch sample_data in venkateshwara-gopisetti/TimeBreak](https://github.com/venkateshwara-gopisetti/TimeBreak/compare/sample_data)
-- [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/TimeBreak](https://github.com/venkateshwara-gopisetti/TimeBreak/compare/master)
-- [venkateshwara-gopisetti created a repository venkateshwara-gopisetti/TimeBreak](https://github.com/venkateshwara-gopisetti/TimeBreak//)
-- [venkateshwara-gopisetti opened an issue in venkateshwara-gopisetti/MLBot](https://github.com/venkateshwara-gopisetti/MLBot/issues/1)
-- [venkateshwara-gopisetti created a branch master in venkateshwara-gopisetti/MLBot](https://github.com/venkateshwara-gopisetti/MLBot/compare/master)
+- [venkateshwara-gopisetti starred venkateshwara-gopisetti/file_parser](https://github.com/venkateshwara-gopisetti/file_parser)
+- [venkateshwara-gopisetti starred venkateshwara-gopisetti/Cyphers](https://github.com/venkateshwara-gopisetti/Cyphers)
+- [venkateshwara-gopisetti starred venkateshwara-gopisetti/procon](https://github.com/venkateshwara-gopisetti/procon)
+- [venkateshwara-gopisetti starred venkateshwara-gopisetti/sudoku-solver](https://github.com/venkateshwara-gopisetti/sudoku-solver)
+- [venkateshwara-gopisetti starred venkateshwara-gopisetti/directory-tree-generator-python](https://github.com/venkateshwara-gopisetti/directory-tree-generator-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## Resources
